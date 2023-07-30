@@ -1,0 +1,38 @@
+* {
+    background-color: white;
+}
+.sofa {
+    background-image: url("images/keyvisual.jpg");
+height: 300px;
+background-repeat: no-repeat;
+background-position: center;
+
+    padding: 40px;
+
+}
+h1 {
+    text-align: center;
+    font-size: larger;
+}
+.pp {
+    text-align: center;
+}
+
+nav div ul li{
+    list-style: none;
+    display: inline;
+    
+ }
+div  ul li {
+   
+    color: blue;
+  list-style: none;
+   
+}
+
+ 
+.ff {
+    display: inline;
+    padding: 20px;
+
+}
